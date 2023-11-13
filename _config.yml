@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> SENBAGAM K</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="http://www.linkedin.com/in/senbagam-k-4b8949269">LinkedIn</a> |
+  <a href="https://github.com/senbagamk">GitHub</a>
+  
+  <br>   
+  I'm currently learning AI/ML in IIIT/UPGRAD
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
